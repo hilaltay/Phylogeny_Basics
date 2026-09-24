@@ -1,13 +1,9 @@
-# Phylogeny_Basics
-A beginner bioinformatics project analyzing and comparing the genetic sequences of SARS-CoV-2 and SARS-CoV using Python. 
-Basic phylogenetic analysis comparing COVID-19 and SARS virus genomes using Pandas and Google Colab.
-
-# Phylogeny_Basics: Genetic Comparison of Coronaviruses 🧬
-
-This project is a fundamental evolutionary bioinformatics (phylogenetic) study comparing the genetic sequences of SARS-CoV-2 (COVID-19) and SARS-CoV (2003) viruses using Python.
+# Phylogeny_Basics: A Mini Bioinformatics Project on Viral Evolution 🧬
+An exploratory bioinformatics mini-project analyzing the basic genetic architecture of SARS-CoV-2 (COVID-19), observing its exact mutation rate against SARS-CoV (2003), and mapping its evolutionary relationships with other Betacoronaviruses using Python and Google Colab.
 
 ## 🎯 Project Objective
-The main objective of this study is to analyze real biological data (in FASTA format) to calculate nucleotide distributions, determine GC content, estimate basic sequence similarity, and construct a phylogenetic tree to visualize the evolutionary relationship and structural differences between coronavirus strains.
+The main objective of this mini-project is to practice analyzing real biological data (in FASTA format) using fundamental bioinformatics tools. 
+It focuses on calculating basic genomic metrics (such as nucleotide distribution and GC content), observing exact base-by-base point mutations between two reference strains, and utilizing NCBI BLAST to construct a modest phylogenetic tree. This provides a visual representation of the genetic distances and host origins of various coronavirus strains.
 
 ## 🛠️ Technologies Used
 * **Python**: Data analysis and programming language.
