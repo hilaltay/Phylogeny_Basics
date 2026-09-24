@@ -28,7 +28,7 @@ The main objective of this study is to analyze real biological data (in FASTA fo
 
 ## 🚀 How to Run the Project
 1. Download the `.fasta` files from this repository.
-2. Open the `virus_karsilastirma.ipynb` file in Google Colab.
+2. Open the `COVID19_SARS_Comparative_Genomics.ipynb` file in Google Colab.
 3. Upload the FASTA files to the Colab environment.
 4. Run the code cells sequentially to examine the charts, calculations, and the phylogenetic tree!
 
